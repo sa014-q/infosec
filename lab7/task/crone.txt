@@ -1,0 +1,1 @@
+0 9 * * * /usr/bin/python3 /home/send_alert.py > /home/cron_python.log 2>&1
